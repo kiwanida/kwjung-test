@@ -1,3 +1,1 @@
-GIT 이게 뭔데
-
-좋아져요
+GIT HELLO
